@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"Google Spell Check",
+		"Gulp",
 		"JavaScript Completions",
 		"Package Control",
 		"SublimeLinter",
