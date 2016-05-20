@@ -1,0 +1,4 @@
+[
+	{ "keys": ["§"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true} },
+	{ "keys": ["super+§"], "command": "show_overlay", "args": {"overlay": "command_palette"} },
+]
