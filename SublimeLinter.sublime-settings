@@ -2,19 +2,11 @@
     "user": {
         "debug": false,
         "delay": 0.1,
-        "error_color": "f2777a",
-        "gutter_theme": "none",
+        "error_color": "ff007e",
+        "gutter_theme": "Packages/SublimeLinter/gutter-themes/Default/Default.gutter-theme",
         "gutter_theme_excludes": [],
         "lint_mode": "background",
         "linters": {
-            "gjslint": {
-                "@disable": false,
-                "args": [],
-                "disable": "",
-                "excludes": [],
-                "jslint_error": "",
-                "max_line_length": null
-            },
             "jsl": {
                 "@disable": false,
                 "args": [],
@@ -25,15 +17,22 @@
                 "args": [],
                 "excludes": [],
                 "standard": "PSR2"
+            },
+            "scss": {
+                "@disable": false,
+                "args": [],
+                "exclude-linter": "",
+                "excludes": [],
+                "include-linter": ""
             }
         },
-        "mark_style": "solid underline",
-        "no_column_highlights_line": false,
-        "passive_warnings": true,
+        "mark_style": "outline",
+        "no_column_highlights_line": true,
+        "passive_warnings": false,
         "paths": {
             "linux": [],
             "osx": [
-                "~/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter/Vendor/jsl-0.3.0-mac",
+                "~/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter/Vendor/jsl",
                 "~/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter/Vendor/PHP_CodeSniffer/scripts"
             ],
             "windows": []
@@ -57,7 +56,7 @@
             "python django": "python",
             "pythonimproved": "python"
         },
-        "warning_color": "DDB700",
+        "warning_color": "fff000",
         "wrap_find": true
     }
 }

@@ -70,7 +70,7 @@
 				<key>fontStyle</key>
 				<string />
 				<key>foreground</key>
-				<string>#c88623</string>
+				<string>#ff3d23</string>
 			</dict>
 		</dict>
 		<dict>
@@ -96,7 +96,7 @@
 				<key>fontStyle</key>
 				<string />
 				<key>foreground</key>
-				<string>#b58913</string>
+				<string>#c04b43</string>
 			</dict>
 		</dict>
 		<dict>
@@ -133,7 +133,7 @@
 				<key>fontStyle</key>
 				<string />
 				<key>foreground</key>
-				<string>#fbbe1c</string>
+				<string>#c5282f</string>
 			</dict>
 		</dict>
 		<dict>

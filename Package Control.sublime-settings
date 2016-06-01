@@ -5,13 +5,24 @@
 	],
 	"installed_packages":
 	[
+		"1337 Color Scheme",
+		"Color Highlighter",
+		"CSS Extended Completions",
+		"CSScomb",
+		"DocBlockr",
+		"Fix Mac Path",
 		"Google Spell Check",
 		"Gulp",
+		"Javascript Beautify",
 		"JavaScript Completions",
 		"Package Control",
+		"SCSS",
+		"SortBy",
 		"SublimeLinter",
 		"SublimeLinter-jsl",
 		"SublimeLinter-phpcs",
-		"Theme - Phoenix"
+		"Theme - Phoenix",
+		"Theme - Spacegray",
+		"Trimmer"
 	]
 }

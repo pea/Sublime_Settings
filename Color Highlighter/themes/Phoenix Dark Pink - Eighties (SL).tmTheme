@@ -8,6 +8,70 @@
 	<string>Tomorrow Night - Eighties</string>
 	<key>settings</key>
 	<array>
+<dict>
+<key>name</key>
+<string>mon_color</string>
+<key>scope</key>
+<string>mcol_ffffffFF</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#ffffffFF</string>
+<key>foreground</key>
+<string>#000000FF</string>
+<key>caret</key>
+<string>#000000FF</string>
+</dict>
+</dict>
+
+<dict>
+<key>name</key>
+<string>mon_text_color</string>
+<key>scope</key>
+<string>mcol_text_ffffffFF</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#2D2D2eFF</string>
+<key>foreground</key>
+<string>#ffffffFF</string>
+<key>caret</key>
+<string>#000000FF</string>
+</dict>
+</dict>
+
+<dict>
+<key>name</key>
+<string>mon_color</string>
+<key>scope</key>
+<string>mcol_fff100FF</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#fff100FF</string>
+<key>foreground</key>
+<string>#4C4800FF</string>
+<key>caret</key>
+<string>#4C4800FF</string>
+</dict>
+</dict>
+
+<dict>
+<key>name</key>
+<string>mon_text_color</string>
+<key>scope</key>
+<string>mcol_text_fff100FF</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#2D2D2eFF</string>
+<key>foreground</key>
+<string>#fff100FF</string>
+<key>caret</key>
+<string>#4C4800FF</string>
+</dict>
+</dict>
+
 		<dict>
 			<key>settings</key>
 			<dict>
@@ -57,7 +121,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#999</string>
+				<string>#999999</string>
 			</dict>
 		</dict>
 		<dict>
@@ -70,7 +134,7 @@
 				<key>fontStyle</key>
 				<string />
 				<key>foreground</key>
-				<string>#c88623</string>
+				<string>#B294BB</string>
 			</dict>
 		</dict>
 		<dict>
@@ -96,7 +160,7 @@
 				<key>fontStyle</key>
 				<string />
 				<key>foreground</key>
-				<string>#b58913</string>
+				<string>#a582a3</string>
 			</dict>
 		</dict>
 		<dict>
@@ -133,7 +197,7 @@
 				<key>fontStyle</key>
 				<string />
 				<key>foreground</key>
-				<string>#fbbe1c</string>
+				<string>#d1afdd</string>
 			</dict>
 		</dict>
 		<dict>

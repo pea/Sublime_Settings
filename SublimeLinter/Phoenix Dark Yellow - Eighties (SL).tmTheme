@@ -70,7 +70,7 @@
 				<key>fontStyle</key>
 				<string />
 				<key>foreground</key>
-				<string>#c88623</string>
+				<string>#dedd5a</string>
 			</dict>
 		</dict>
 		<dict>
@@ -96,7 +96,7 @@
 				<key>fontStyle</key>
 				<string />
 				<key>foreground</key>
-				<string>#b58913</string>
+				<string>#91812b</string>
 			</dict>
 		</dict>
 		<dict>
@@ -133,7 +133,7 @@
 				<key>fontStyle</key>
 				<string />
 				<key>foreground</key>
-				<string>#fbbe1c</string>
+				<string>#c3ba4d</string>
 			</dict>
 		</dict>
 		<dict>
@@ -240,16 +240,6 @@
 		</dict>
 	<dict>
             <key>name</key>
-            <string>SublimeLinter Error</string>
-            <key>scope</key>
-            <string>sublimelinter.mark.error</string>
-            <key>settings</key>
-            <dict>
-                <key>foreground</key>
-                <string>#ff007e</string>
-            </dict>
-        </dict><dict>
-            <key>name</key>
             <string>SublimeLinter Warning</string>
             <key>scope</key>
             <string>sublimelinter.mark.warning</string>
@@ -257,6 +247,16 @@
             <dict>
                 <key>foreground</key>
                 <string>#fff000</string>
+            </dict>
+        </dict><dict>
+            <key>name</key>
+            <string>SublimeLinter Error</string>
+            <key>scope</key>
+            <string>sublimelinter.mark.error</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#ff007e</string>
             </dict>
         </dict><dict>
             <key>name</key>
