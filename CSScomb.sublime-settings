@@ -89,6 +89,7 @@
                 "font-emphasize-position",
                 "font-emphasize-style",
                 "font-smooth",
+                "-webkit-font-smoothing",
                 "line-height",
    
                 "position",
@@ -272,6 +273,7 @@
                 "pointer-events",
        
                 "opacity",
+                "filter",
                 "filter:progid:DXImageTransform.Microsoft.Alpha(Opacity",
                 "-ms-filter:\\'progid:DXImageTransform.Microsoft.Alpha",
                 "-ms-interpolation-mode",
@@ -365,7 +367,10 @@
                 "box-shadow",
                 "filter:progid:DXImageTransform.Microsoft.gradient",
                 "-ms-filter:\\'progid:DXImageTransform.Microsoft.gradient",
-                "text-shadow"
+                "text-shadow",
+
+                "-webkit-text-fill-color",
+                "clip-path"
             ]
         ]
     }

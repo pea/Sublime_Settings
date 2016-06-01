@@ -17,13 +17,6 @@
                 "args": [],
                 "excludes": [],
                 "standard": "PSR2"
-            },
-            "scss": {
-                "@disable": false,
-                "args": [],
-                "exclude-linter": "",
-                "excludes": [],
-                "include-linter": ""
             }
         },
         "mark_style": "outline",
